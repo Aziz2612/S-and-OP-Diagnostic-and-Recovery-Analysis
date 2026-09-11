@@ -119,12 +119,6 @@ Secure regional freight capacity and strengthen supplier packaging SLAs.
 
 ---
 
-## Dashboard
-
-![S&OP Executive Dashboard](Images/dashboard_page_1.png)
-
----
-
 ## Deliverables
 
 - Executive S&OP Dashboard
