@@ -127,8 +127,7 @@ Secure regional freight capacity and strengthen supplier packaging SLAs.
 
 - 📊 Executive S&OP Dashboard
 - 📄 Executive Diagnostic Report
-- 📑 Excel analysis
-- 🗂️ Synthetic dataset
+- 📑 Data
 
 ---
 
